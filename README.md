@@ -64,8 +64,8 @@ All testing activities were performed exclusively within the assigned TryHackMe 
 
 | Room | Focus Area | Summary File |
 |------|-----------|--------------|
-| 🔍 **Active Reconnaissance** | Information Gathering & Enumeration | [`reconnaissance-summary.md`](./Reconnaissance/Reconnaissance-summary.md) |
-| 🧃 **OWASP Juice Shop** | Web Application Security Assessment | [`juice-shop-summary.md`](./Web-assessment/Juice-shop-summary.md) |
+| 🔍 **Active Reconnaissance** | Information Gathering & Enumeration | [`Reconnaissance-summary.md`](./Reconnaissance/Reconnaissance-summary.md) |
+| 🧃 **OWASP Juice Shop** | Web Application Security Assessment | [`Juice-shop-summary.md`](./Web-assessment/Juice-shop-summary.md) |
 | 🔵 **Blue** | Vulnerability Assessment & Exploitation | [`blue-room-summary.md`](./Exploitation/blue-room-summary.md) |
 
 ---
